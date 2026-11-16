@@ -1,0 +1,100 @@
+body {
+    background-color: #FFF8F5;
+    font-family: Arial;
+    margin: 0;
+}
+
+body > div:first-child {
+    background-color: #F5DCE6;
+    color: #352832;
+    text-align: center;
+    padding: 30px;
+}
+
+h1 {
+    font-family: Georgia;
+    font-size: 40px;
+}
+
+nav {
+    background-color: #A77C91;
+    text-align: center;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+}
+
+nav a:hover {
+    color: #352832;
+}
+
+body > div {
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height: 250px;
+}
+
+h2 {
+    color: #A77C91;
+    font-family: Georgia;
+}
+
+h3 {
+    color: #352832;
+    font-family: Georgia;
+}
+
+p {
+    color: #51444B;
+    line-height: 1.8;
+}
+
+footer {
+    background-color: #352832;
+    text-align: center;
+    padding: 15px;
+}
+
+footer p {
+    color: white;
+}
+
+
+.form {
+    background-color: white;
+    width: 400px;
+    margin: 40px auto;
+    padding: 30px;
+    text-align: center;
+}
+
+input {
+    width: 80%;
+    padding: 10px;
+    border: 1px solid #A77C91;
+}
+
+button {
+    background-color: #A77C91;
+    color: white;
+    padding: 10px 30px;
+    border: none;
+}
+
+label {
+    color: #352832;
+}
+
+button:hover {
+    background-color: #352832;
+}
